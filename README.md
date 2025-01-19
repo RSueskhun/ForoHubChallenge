@@ -35,7 +35,7 @@ Permite realizar el CRUD (CREATE, READ, UPDATE, DELETE).
 
 - Servicio de autenticación/autorización para restringir el acceso a la información.
 
-## 📁 Acceso al proyecto
+## 📁 ACCESO AL PROYECTO
 
 Para instalar y ejecutar el proyecto localmente:
 
@@ -60,11 +60,11 @@ Ejecuta el proyecto:
 
 1. Ejecuta la aplicación.
 
-2. Selecciona las monedas que deseas convertir.
+2. Realiza el login del usuario.
 
-3. Introduce la cantidad a convertir.
+3. Selecciona y realiza el request de tu elección.
 
-4. Visualiza el resultado de la conversión.
+4. Visualiza el resultado del request.
 
 
 ### TECNOLOGIAS UTILIZADAS
